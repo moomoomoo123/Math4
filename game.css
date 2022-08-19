@@ -1,0 +1,13 @@
+body
+{
+	background:#ffa59e;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #cc3d3d;
+    padding:10px;
+    float:none;
+    text-align: left;
+}
